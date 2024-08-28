@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Siya's First CS 193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! My name is **Siya Jariwala** and I am a freshman majoring in **Computer Science**. 
 
 ### Markdown
 
