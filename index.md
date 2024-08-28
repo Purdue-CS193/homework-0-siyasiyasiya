@@ -2,7 +2,7 @@
 
 Hi! My name is _**Siya Jariwala**_ and I am a freshman majoring in **Computer Science**. 
 
-
+![Image](kyliechillingoncomputer.JPG)
 
 ### Markdown
 
