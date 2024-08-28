@@ -1,6 +1,8 @@
 ## Siya's First CS 193 Homework
 
-Hi! My name is **Siya Jariwala** and I am a freshman majoring in **Computer Science**. 
+Hi! My name is _**Siya Jariwala**_ and I am a freshman majoring in **Computer Science**. 
+
+
 
 ### Markdown
 
