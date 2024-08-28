@@ -4,7 +4,7 @@ Hi! My name is _**Siya Jariwala**_ and I am a freshman majoring in **Computer Sc
 
 ![Image](kyliechillingoncomputer.JPG)
 
-Here are some of my favorite things about CS 193 :)
+Here are some of my favorite things about **CS 193** :)
 
 - It's taught by students
 - Teaches industry-level technology
